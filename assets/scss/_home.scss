@@ -12,6 +12,10 @@
       height: 90vh;
       overflow: hidden;
       width: 100%;
+
+      #NamePrincipal{
+        color: $color-white;
+      }
       #home-container-text {
         width: 60%;
         flex-direction: column;

@@ -20,10 +20,6 @@ hoverChangeDescription(
   "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
 );
 hoverChangeDescription(
-  ".sass",
-  "Sass (pré-processador css) é uma linguagem de folhas de estilo. É uma simples linguagem de script usada em arquivos Sass."
-);
-hoverChangeDescription(
   ".react",
   "ReactJS é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web."
 );
@@ -34,8 +30,4 @@ hoverChangeDescription(
 hoverChangeDescription(
   ".styled",
   "Styled Components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript."
-);
-hoverChangeDescription(
-  ".tailwind",
-  "Tailwind CSS é um framework desenvolvido para maximizar o potencial do bom e velho CSS e levá-lo ainda mais longe."
 );

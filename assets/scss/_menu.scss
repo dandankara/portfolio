@@ -16,8 +16,8 @@ header {
       @include flexbox-between;
       height: 8vh;
       padding: 0px $gap-1;
-      img {
-        width: 150px;
+      p {
+        color: white;
       }
       .nav-list {
         list-style: none;
